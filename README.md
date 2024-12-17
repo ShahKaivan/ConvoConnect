@@ -29,7 +29,7 @@ ConvoConnect is a responsive chat application that enables seamless communicatio
   - Node.js
   - Express
 - **AI Integration**: 
-  - ChatGPT API
+  - Gemini API
 
 ## Getting Started
 
