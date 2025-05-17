@@ -1,6 +1,6 @@
 # ConvoConnect: AI-Driven Chat Application
 
-ConvoConnect is a responsive chat application that enables seamless communication between users and AI using the ChatGPT API. Built with modern web technologies, ConvoConnect fosters dynamic and interactive communication experiences.
+ConvoConnect is a responsive chat application that enables seamless communication between users and AI using the Gemini API. Built with modern web technologies, ConvoConnect fosters dynamic and interactive communication experiences.
 
 ## Table of Contents
 
