@@ -16,7 +16,7 @@ ConvoConnect is a responsive chat application that enables seamless communicatio
 
 - **Real-Time Chat**: Engage in dynamic conversations with instant message delivery.
 - **User-Friendly Interface**: Intuitive design enhances user experience and engagement.
-- **AI Integration**: Leverage the ChatGPT API for intelligent and context-aware responses.
+- **AI Integration**: Leverage the Gemini API for intelligent and context-aware responses.
 - **Scalable Architecture**: Handles 1,000+ concurrent users with robust performance.
 - **Security Measures**: Ensures user data protection and privacy compliance.
 
